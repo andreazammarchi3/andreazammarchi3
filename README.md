@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![selfie](./res/SelfieRockGrost%C3%A8.jpg)
+<img src="./res/drawing.jpg" alt="drawing" width="200"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
