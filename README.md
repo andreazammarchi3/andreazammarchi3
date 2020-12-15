@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 ![image](https://github.com/andreazammarchi3/andreazammarchi3/blob/main/res/SelfieRockGrost%C3%A8.jpg)
 
 - 🔭 I’m currently working on ...
