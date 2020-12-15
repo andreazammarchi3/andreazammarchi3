@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https:https://github.com/andreazammarchi3/andreazammarchi3/tree/main/res/SelfieRockGrostè.jpg)
+![image](https://github.com/andreazammarchi3/andreazammarchi3/blob/main/res/SelfieRockGrost%C3%A8.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
