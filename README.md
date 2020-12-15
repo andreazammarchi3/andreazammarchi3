@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![selfie](./res/SelfieRockGrost%C3%A8.jpg =100x100)
+![selfie](./res/SelfieRockGrost%C3%A8.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
