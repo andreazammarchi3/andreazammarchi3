@@ -1,12 +1,12 @@
 # Hi there 👋
 
-![welcome](./res/Welcome.gif)
+<img alt="Welcome" src="./res/Welcome.gif" width="400" class="center" />
 
 ## 👨‍💻 Who Am I
 
 ### - 🇮🇹 An italian student, worker and athlete born in 2000
-### - 📚 I’m currently studying **Engineering and Computer Science - UniBo** 
- <img alt="Coder" src="./res/Coder.gif" width="400" />
+### - 📚 I’m currently studying Engineering and Computer Science - UniBo
+<img alt="Coder" src="./res/Coder.gif" width="400" />
 
 ## 🔧 My Skills
   
@@ -54,8 +54,8 @@
 ----
 
 ## 📲 My Hobbies
- ### - 🏐 Volleyball Player in Serie B - 🟡Sab Heli Rubicone Team🔵
- ![Volley](./res/Volley.gif)
+### - 🏐 Volleyball Player in Serie B - 🟡Sab Heli Rubicone Team🔵
+<img alt="Volley" src="./res/Volley.gif" width="400" />
  
- ### - 🏂 Addicted to Snowboarding
- ![Snowboard](./res/Snow1.gif)
+### - 🏂 Addicted to Snowboarding
+<img alt="Snowboard" src="./res/Snow2.gif" width="400" />
