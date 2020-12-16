@@ -2,7 +2,7 @@
 
 ![welcome](./res/giphy.gif)
 
-## 🕵 Who Am I
+## 👨‍💻 Who Am I
 
   - 🇮🇹 An italian student, worker and athlete born in 2000
   - 📚 I’m currently studying **Engineering and Computer Science - UniBo**
@@ -11,7 +11,7 @@
 
 ----
 
-## 💣 My Skills
+## 🔧 My Skills
   
   <b> 💻 Operating Systems </b> <br> 
   <p>
@@ -22,7 +22,7 @@
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   </p>
   
-  <b> 💻 Programming Languages </b> <br>
+  <b> 📝 Programming Languages </b> <br>
   <p>
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -41,19 +41,16 @@
 
 ----
 
-## 📫 How to reach me
+## 📲 My accounts
 <p>
-  <a href="https://github.com/alemazzo">
+  <a href="https://github.com/andreazammarchi3">
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a> 
-  <a href="https://www.instagram.com/alessandro.py/">
+  <a href="https://www.instagram.com/andrezamma/">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
-  <a href="https://www.linkedin.com/in/alessandro-mazzoli-009868140/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="mailto:developer.alessandro.mazzoli@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.facebook.com/andrea.zammarchi.39/">
+    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-003d99?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>  
   
 </p>
