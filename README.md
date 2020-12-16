@@ -34,18 +34,16 @@
   
   <b> 💡 Other Stuff </b> <br>
   <p>
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" /> 
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   </p>
   
 
 ----
 
-## 📲 My accounts
+## 📲 My social accounts
 <p>
-  <a href="https://github.com/andreazammarchi3">
-    <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a> 
   <a href="https://www.instagram.com/andrezamma/">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
