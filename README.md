@@ -25,19 +25,12 @@
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="CS" src="https://img.shields.io/badge/-C %23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/-Ansi C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+    <img alt="Visual Basic" src="https://img.shields.io/badge/-Visual_Basic-342D7E?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     
-  </p>
-  
-  <b> 🔮 Frameworks </b> <br>
-  <p>
-    <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </p>
   
   <b> 💡 Other Stuff </b> <br>
   <p>
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />  
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" /> 
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   </p>
