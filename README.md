@@ -1,13 +1,11 @@
 # Hi there 👋
 
-![welcome](./res/giphy.gif)
+![welcome](./res/Welcome.gif)
 
 ## 👨‍💻 Who Am I
 
   - 🇮🇹 An italian student, worker and athlete born in 2000
   - 📚 I’m currently studying **Engineering and Computer Science - UniBo**
-  - 🏐 Volleyball Player in Serie B - 🟡Sab Heli Rubicone Team🔵 
-  - 🏂 Addicted to Snowboarding
 
 ----
 
@@ -54,3 +52,11 @@
   
 </p>
 
+----
+
+## 📲 My Hobbies
+ ### - 🏐 Volleyball Player in Serie B - 🟡Sab Heli Rubicone Team🔵
+ ![Volley](./res/Volley.gif)
+ 
+ ### - 🏂 Addicted to Snowboarding
+ ![Snowboard](./res/Snow1.gif)
