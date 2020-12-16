@@ -9,7 +9,6 @@
  <p>
   <img alt="Coder" src="./res/Coder.gif" width="400" />
  </p>
-----
 
 ## 🔧 My Skills
   
