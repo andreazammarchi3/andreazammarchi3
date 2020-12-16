@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img alt="Welcome" src="./res/Welcome.gif" width="400" class="center" />
+<img alt="Welcome" src="./res/Welcome.gif" width="800" />
 
 ## 👨‍💻 Who Am I
 
@@ -58,4 +58,4 @@
 <img alt="Volley" src="./res/Volley.gif" width="400" />
  
 ### - 🏂 Addicted to Snowboarding
-<img alt="Snowboard" src="./res/Snow2.gif" width="400" />
+<img alt="Snowboard" src="./res/Snow3.gif" width="400" />
