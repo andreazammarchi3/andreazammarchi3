@@ -14,7 +14,7 @@
 
 ## 🔧 My Skills 🔧
   
-  <b> 💻 Operating Systems </b> <br> 
+  <b> 💻 Operating Systems 💻 </b> <br> 
   <p>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="MacOS" src="https://img.shields.io/badge/-Mac_OS-000000?style=for-the-badge&logo=apple&logoColor=white" />
@@ -23,7 +23,7 @@
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   </p>
   
-  <b> 📝 Programming Languages </b> <br> 📝
+  <b> 📝 Programming Languages 📝 </b> <br>
   <p>
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -34,7 +34,7 @@
     
   </p>
   
-  <b> 💡 Other Stuff </b> <br> 💡
+  <b> 💡 Other Stuff 💡 </b> <br>
   <p>
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
