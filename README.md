@@ -1,8 +1,7 @@
 # 👋 Hi there 👋
 <p align="center">
-  <img alt="Welcome" src="./res/Welcome3.gif" width="800" />
+  <img alt="Welcome" src="./res/Welcome3.gif" />
 </p>
-----
 
 ## 👨‍💻 Who Am I 👨‍💻
 
