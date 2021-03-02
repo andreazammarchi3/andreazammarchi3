@@ -11,6 +11,10 @@
 <p align="center">
   <img alt="Coder" align="center" src="./res/Coder.gif" width="400" />
 </p>
+
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
 ----
 
 ## 🔧 My Skills 🔧
