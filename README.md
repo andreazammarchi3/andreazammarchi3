@@ -1,6 +1,6 @@
 # 👋 Hi there 👋
 
-<img alt="Welcome" src="./res/Welcome2.webp" width="400" />
+<img alt="Welcome" src="./res/Welcome3.gif" width="772" />
 
 ----
 
