@@ -8,13 +8,7 @@
 
 ### - 🇮🇹 An italian student, worker and athlete born in 2000
 ### - 📚 I’m currently studying Engineering and Computer Science - UniBo
-<p align="center">
-  <img alt="Coder" src="./res/Coder.gif" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
+<img alt="Coder" src="./res/Coder.gif" width="400" />
 ----
 
 ## 🔧 My Skills 🔧
