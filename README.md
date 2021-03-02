@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="./res/Coder.gif" />
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 ----
 
