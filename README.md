@@ -31,6 +31,8 @@
     <img alt="C" src="https://img.shields.io/badge/-Ansi C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
     <img alt="Visual Basic" src="https://img.shields.io/badge/-Visual_Basic-342D7E?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-ff9933?style=for-the-badge&logo=a-frame&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-FBF229?style=for-the-badge&logo=python&logoColor=blue" />
+    <img alt="SQL" src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
     
   </p>
   
