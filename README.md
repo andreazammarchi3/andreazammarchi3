@@ -1,7 +1,7 @@
 # 👋 Hi there 👋
-
-<img alt="Welcome" src="./res/Welcome3.gif" width="800" />
-
+<p align="center">
+  <img alt="Welcome" src="./res/Welcome3.gif" width="800" />
+</p>
 ----
 
 ## 👨‍💻 Who Am I 👨‍💻
@@ -9,7 +9,6 @@
 ### - 🇮🇹 An italian student, worker and athlete born in 2000
 ### - 📚 I’m currently studying Engineering and Computer Science - UniBo
 <img alt="Coder" src="./res/Coder.gif" width="400" />
-----
 
 ## 🔧 My Skills 🔧
   
