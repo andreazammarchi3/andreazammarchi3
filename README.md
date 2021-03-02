@@ -2,11 +2,15 @@
   <img alt="Welcome" src="./res/Welcome3.gif" width="1214" />
 </p>
 
+----
+
 ## 👨‍💻 Who Am I 👨‍💻
 
 ### - 🇮🇹 An italian student, worker and athlete born in 2000
 ### - 📚 I’m currently studying Engineering and Computer Science - UniBo
 <img alt="Coder" src="./res/Coder.gif" width="400" />
+
+----
 
 ## 🔧 My Skills 🔧
   
