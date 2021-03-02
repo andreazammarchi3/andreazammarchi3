@@ -8,8 +8,7 @@
 
 ### - 🇮🇹 An italian student, worker and athlete born in 2000
 ### - 📚 I’m currently studying Engineering and Computer Science - UniBo
-<img alt="Coder" src="./res/Coder.gif" width="400" />
-
+<img alt="Coder" align="center" src="./res/Coder.gif" width="400" />
 ----
 
 ## 🔧 My Skills 🔧
