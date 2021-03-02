@@ -18,7 +18,6 @@
   <p>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="MacOS" src="https://img.shields.io/badge/-Mac_OS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   </p>
