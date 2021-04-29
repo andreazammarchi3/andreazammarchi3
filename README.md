@@ -30,7 +30,7 @@
     <img alt="Visual Basic" src="https://img.shields.io/badge/-Visual_Basic-342D7E?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-007AAC?style=for-the-badge&logo=A-frame&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-FBF229?style=for-the-badge&logo=python&logoColor=blue" />
-    <img alt="SQL" src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+    <img alt="SQL" src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=MySQL&logoColor=white" />
     
   </p>
   
