@@ -49,7 +49,7 @@
 
 ## 📲 My social accounts 📲
 <p>
-  <a href="https://www.instagram.com/andrezamma/">
+  <a href="https://www.instagram.com/andrea_zammarchi_/">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
   <a href="https://www.facebook.com/andrea.zammarchi.39/">
