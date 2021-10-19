@@ -23,7 +23,7 @@
   
   <b> 📝 Programming Languages 📝 </b> <br>
   <p>
-    <img alt="Bash" class="disabled" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img alt="Bash" style="pointer-events: none" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img alt="Java" class="disabled" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="CS" class="disabled" src="https://img.shields.io/badge/-C %23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img alt="C" class="disabled" src="https://img.shields.io/badge/-Ansi C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
