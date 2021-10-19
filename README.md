@@ -23,24 +23,25 @@
   
   <b> 📝 Programming Languages 📝 </b> <br>
   <p>
-    <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    <img alt="CS" src="https://img.shields.io/badge/-C %23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/-Ansi C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-    <img alt="Visual Basic" src="https://img.shields.io/badge/-Visual_Basic-342D7E?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-007AAC?style=for-the-badge&logo=A-frame&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-FBF229?style=for-the-badge&logo=python&logoColor=blue" />
-    <img alt="SQL" src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=MySQL&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ff4e00?style=for-the-badge&logo=HTML5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-00b1ff?style=for-the-badge&logo=CSS3&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffdc00?style=for-the-badge&logo=JavaScript&logoColor=white" />
+    <img alt="Bash" class="disabled" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img alt="Java" class="disabled" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="CS" class="disabled" src="https://img.shields.io/badge/-C %23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img alt="C" class="disabled" src="https://img.shields.io/badge/-Ansi C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+    <img alt="Visual Basic" class="disabled" src="https://img.shields.io/badge/-Visual_Basic-342D7E?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img alt="Assembly" class="disabled" src="https://img.shields.io/badge/-Assembly-007AAC?style=for-the-badge&logo=A-frame&logoColor=white" />
+    <img alt="Python" class="disabled" src="https://img.shields.io/badge/-Python-FBF229?style=for-the-badge&logo=python&logoColor=blue" />
+    <img alt="SQL" class="disabled" src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img alt="HTML5" class="disabled" src="https://img.shields.io/badge/-HTML5-ff4e00?style=for-the-badge&logo=HTML5&logoColor=white" />
+    <img alt="CSS3" class="disabled" src="https://img.shields.io/badge/-CSS3-00b1ff?style=for-the-badge&logo=CSS3&logoColor=white" />
+    <img alt="JavaScript" class="disabled" src="https://img.shields.io/badge/-JavaScript-ffdc00?style=for-the-badge&logo=JavaScript&logoColor=white" />
+    <img alt="PHP" class="disabled" src="https://img.shields.io/badge/-PHP-46436f?style=for-the-badge&logo=PHP&logoColor=white" />
   </p>
   
   <b> 💡 Other Stuff 💡 </b> <br>
   <p>
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-    <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+    <img alt="Git" class="disabled" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+    <img alt="GitHub" class="disabled" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Arduino" class="disabled" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   </p>
   
 
