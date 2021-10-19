@@ -25,7 +25,7 @@
   <p>
     <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-007AAC?style=for-the-badge&logo=A-frame&logoColor=white" />
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/-Ansi C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+    <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-00b1ff?style=for-the-badge&logo=CSS3&logoColor=white" />
     <img alt="CS" src="https://img.shields.io/badge/-C %23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ff4e00?style=for-the-badge&logo=HTML5&logoColor=white" />
