@@ -7,7 +7,7 @@
 ## 👨‍💻 Who Am I 👨‍💻
 
 ### - 🇮🇹 An italian student, worker and athlete born in 2000
-### - 📚 I’m currently studying Engineering and Computer Science - UniBo
+### - 📚 I’m currently studying Engineering and Computer Science @ UniBo
 
 ----
 
