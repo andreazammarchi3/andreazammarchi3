@@ -33,7 +33,7 @@
     <img alt="SQL" src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=MySQL&logoColor=white" />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ff4e00?style=for-the-badge&logo=HTML5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-00b1ff?style=for-the-badge&logo=CSS3&logoColor=white" />
-    
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffdc00?style=for-the-badge&logo=JavaScript&logoColor=white" />
   </p>
   
   <b> 💡 Other Stuff 💡 </b> <br>
