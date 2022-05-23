@@ -7,8 +7,8 @@
 ### - 🇮🇹 An italian student, worker and athlete born in 2000
 ### - 📚 I’m currently studying Engineering and Computer Science @ UniBo
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreazammarchi3&layout=compact&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreazammarchi3&layout=compact&show_icons=true&theme=radical&hide=css,javascript,html)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreazammarchi3&layout=compact&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreazammarchi3&layout=compact&show_icons=true&theme=radical&hide=css,javascript,html&count_private=true)
 
 ## 🔧 My Skills 🔧
   
@@ -33,6 +33,7 @@
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
     <img alt="Visual Basic" src="https://img.shields.io/badge/-Visual_Basic-342D7E?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </p>
   
@@ -43,8 +44,6 @@
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
   </p>
   
-
-----
 
 ## 📲 My social accounts 📲
 <p>
