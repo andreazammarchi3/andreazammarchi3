@@ -42,6 +42,7 @@
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   </p>
   
 
