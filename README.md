@@ -2,14 +2,13 @@
   <img alt="Welcome" src="./res/Welcome3.gif" width="1214" />
 </p>
 
-----
-
 ## 👨‍💻 Who Am I 👨‍💻
 
 ### - 🇮🇹 An italian student, worker and athlete born in 2000
 ### - 📚 I’m currently studying Engineering and Computer Science @ UniBo
 
-----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreazammarchi3&layout=compact&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreazammarchi3&layout=compact&show_icons=true&theme=radical&hide=css,javascript,html)
 
 ## 🔧 My Skills 🔧
   
