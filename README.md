@@ -3,8 +3,9 @@
 </p>
 
 ## 👨‍💻 Who Am I?
-- 🇮🇹 An italian student, worker and athlete born in 2000
-- 📚 I’m currently studying Engineering and Computer Science @ UniBo
+#### 👨 An italian student, worker and athlete born in 2000
+#### 🎓 Bachelor's Degree in Engineering and Computer Science @ UniBo
+#### 📚 Studying for a Master's Degree in Engineering and Computer Science @ UniBo
 
 ## 🏆 Some stats
 <div align="center">
@@ -16,8 +17,7 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreazammarchi3&theme=dracula&bg_color=45,0F2027,203A43,2C5364)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreazammarchi3&langs_count=30&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  
 </div>
 
 ## 🔧 My Skills
