@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Welcome" src="./res/Welcome3.gif" width="1214" />
+  <img alt="Welcome" src="./res/baymax.gif"/>
 </p>
 
 ## 👨‍💻 Who Am I 👨‍💻
