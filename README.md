@@ -2,7 +2,7 @@
   <img alt="Welcome" src="./res/baymax.gif"/>
 </p>
 
-## 👨‍💻 Who Am I
+## 👨‍💻 Who Am I?
 - 🇮🇹 An italian student, worker and athlete born in 2000
 - 📚 I’m currently studying Engineering and Computer Science @ UniBo
 
@@ -22,11 +22,11 @@
 
 ## 🔧 My Skills
 ### 📝 Programming Languages
-[!Programming Languages](https://skillicons.dev/icons?i=bash,c,cs,css,html,js,php,md,matlab,java,scala,py,swift)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=bash,c,cs,css,html,js,php,md,matlab,java,scala,py,swift)](https://skillicons.dev)
   
 ### 💡 Other Stuff
 [![Other Stuff](https://skillicons.dev/icons?i=androidstudio,angular,arduino,autocad,aws,azure,bootstrap,discord,docker,dotnet,eclipse,express,figma,git,github,githubactions,gitlab,gradle,idea,latex,linux,mongodb,mysql,nodejs,ps,postman,powershell,pytorch,raspberrypi,reactivex,tensorflow,unity,visualstudio,vscode,vue,)](https://skillicons.dev)
 
 ## 📲 My social accounts
-[!My social accounts](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/andrea_zammarchi_/) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andrea-zammarchi-704b56220/)
+[![My social accounts](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/andrea_zammarchi_/) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andrea-zammarchi-704b56220/)
 <!--[![My Skills](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/andrea.zammarchi.39/)-->
