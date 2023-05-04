@@ -19,6 +19,5 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,arduino,autocad,aws,azure,bootstrap,discord,docker,dotnet,eclipse,express,figma,git,github,githubactions,gitlab,gradle,idea,latex,linux,mongodb,mysql,nodejs,ps,postman,powershell,pytorch,raspberrypi,reactivex,tensorflow,unity,visualstudio,vscode,vue,)](https://skillicons.dev)
 
 ## 📲 My social accounts 📲
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/andrea_zammarchi_/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/andrea_zammarchi_/) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andrea-zammarchi-704b56220/)
 <!--[![My Skills](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/andrea.zammarchi.39/)-->
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andrea-zammarchi-704b56220/)
