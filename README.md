@@ -3,15 +3,23 @@
 </p>
 
 ## 👨‍💻 Who Am I 👨‍💻
+- 🇮🇹 An italian student, worker and athlete born in 2000
+- 📚 I’m currently studying Engineering and Computer Science @ UniBo
 
-### - 🇮🇹 An italian student, worker and athlete born in 2000
-### - 📚 I’m currently studying Engineering and Computer Science @ UniBo
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=andreazammarchi3&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreazammarchi3&layout=compact&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreazammarchi3&layout=compact&show_icons=true&theme=radical&hide=css,javascript,html&count_private=true)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreazammarchi3&theme=dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreazammarchi3&theme=dracula&bg_color=45,0F2027,203A43,2C5364)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreazammarchi3&langs_count=30&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
 
 ## 🔧 My Skills 🔧
-
 ### 📝 Programming Languages 📝
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cs,css,html,js,php,md,matlab,java,scala,py,swift)](https://skillicons.dev)
   
