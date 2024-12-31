@@ -1,11 +1,6 @@
-<p align="center">
-  <img alt="Welcome" src="./res/baymax.gif"/>
-</p>
-
 ## 👨‍💻 Who Am I?
 #### 👨 An italian student, worker and athlete born in 2000
-#### 🎓 Bachelor's Degree in Engineering and Computer Science @ UniBo
-#### 📚 Studying for a Master's Degree in Engineering and Computer Science @ UniBo
+#### 🎓 Master's Degree in Engineering and Computer Science @ UniBo
 
 ## 🏆 Some stats
 <div align="center">
